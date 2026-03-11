@@ -14,8 +14,9 @@ W <= N, in some cases -- unlike the strong (one-copy
 serializability) property we studied in lectures. What might the
 benefit of this be? What about the drawbacks?
 
-Now examine the Python simulation in this repository, which is
-a stripped-down version of the Dynamo system, created by
+Now examine the Python simulation in this repository, Mini_Dynamo, which is
+a partial and  unoptimised implementation of Amazon's Dynamo system.
+Mini_Dynamo was created by
 Raahul Krishna Durairaj (upstream: https://github.com/RAAHUL-tech/Mini_Dynamo).
 
 If using a lab machine you will have to create a Python virtual
